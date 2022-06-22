@@ -1,0 +1,8 @@
+[user]
+	name = Renato Macêdo
+	email = 31698109+renato-macedo@users.noreply.github.com 
+[core]
+	editor = vim
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential

@@ -1,0 +1,15 @@
+be5invis.theme-verdandi
+cubos.sdkgen
+dbaeumer.vscode-eslint
+eamodio.gitlens
+esbenp.prettier-vscode
+golang.go
+LucasFonte.nightmare
+mjmlio.vscode-mjml
+ms-azuretools.vscode-docker
+PKief.material-icon-theme
+Prisma.prisma
+redhat.vscode-yaml
+ritwickdey.LiveServer
+rust-lang.rust
+shd101wyy.markdown-preview-enhanced
